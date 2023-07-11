@@ -29,7 +29,7 @@ body {
 .banner-description {
     color: #27272799 
     width: 634px;
-   
+
 
 }
 
@@ -39,10 +39,74 @@ body {
 
 
 }
-.btn-banner{
-    color: white;   
+
+.btn-banner {
+    color: white;
     padding: 20px 43px;
     gap: 10px;
     border-radius: 8px;
     background: #E55473;
+}
+
+/* Featured Flowers section styles */
+.first-container{
+    display: flex;
+}
+.section-container {
+    text-align: center;
+    margin-top: 180px;
+}
+
+.section-title {
+    color: #272727;
+    font-size: 40px;
+}
+    .section-description {
+        color: rgba(39, 39, 39, 0.60);
+        font-size: 30px;
+        line-height: 60px;
+
+
+    }
+    /* second section styles */
+.second-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #E554730D;
+    padding-left: 500px;
+    padding-right: 400px;
+    margin-top: 200px;
+}
+.second-heading{
+    color: #272727;
+
+    font-size: 40px;
+
+}
+.second-description{
+    color: #27272799;
+    
+    font-size: 20px;
+    line-height: 30px;
+    
+}
+.second-image{
+    width: 400px;
+    height: 500px;
+
+}
+/* third section styles */
+.third-container{
+    text-align: center;
+    margin-top: 200px;
+}
+.third-heading{
+    color: #272727;
+    font-size: 40px;
+
+}
+.third-description{
+    
+   color: rgba(39, 39, 39, 0.60);
 }
