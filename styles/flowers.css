@@ -1,0 +1,38 @@
+/* common shared styles */
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+
+/* header related styles */
+
+.banner {
+    background-color: #E554731A;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    }
+
+.banner-title {
+    color: #272727;
+    font-size: 45px;
+    
+
+
+}
+
+.banner-description {
+    color: #27272799
+    font-size: 18px;font-weight: 400;
+    line-height: 30px;
+}
+.banner-pic{
+    width: 500px;
+    height: 850px; 
+    
+}
+    
