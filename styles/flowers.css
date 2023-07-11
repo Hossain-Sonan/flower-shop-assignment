@@ -91,7 +91,7 @@ body {
     line-height: 30px;
     
 }
-.second-image{
+.second-pic{
     width: 400px;
     height: 500px;
 
@@ -99,14 +99,35 @@ body {
 /* third section styles */
 .third-container{
     text-align: center;
-    margin-top: 200px;
+    
+    
 }
 .third-heading{
     color: #272727;
     font-size: 40px;
+    margin-top: 200px;
 
 }
 .third-description{
     
    color: rgba(39, 39, 39, 0.60);
+}
+/* fourth section styles */
+.fourth-container{
+    display: flex;
+    width: 342px;
+    height: 396px;
+
+
+}
+.fourth-pic{
+      margin-left: 800px;  
+    }
+.fifth-pic{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.sixth-pic{
+    
+    margin-right: 20px;
 }
