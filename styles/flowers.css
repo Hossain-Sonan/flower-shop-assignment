@@ -27,8 +27,7 @@ body {
 }
 
 .banner-description {
-    color: #27272799 
-    width: 634px;
+    color: #27272799 width: 634px;
 
 
 }
@@ -49,9 +48,11 @@ body {
 }
 
 /* Featured Flowers section styles */
-.first-container{
+.first-container {
     display: flex;
+
 }
+
 .section-container {
     text-align: center;
     margin-top: 180px;
@@ -61,15 +62,17 @@ body {
     color: #272727;
     font-size: 40px;
 }
-    .section-description {
-        color: rgba(39, 39, 39, 0.60);
-        font-size: 30px;
-        line-height: 60px;
+
+.section-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 30px;
+    line-height: 60px;
 
 
-    }
-    /* second section styles */
-.second-container{
+}
+
+/* second section styles */
+.second-container {
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -78,56 +81,121 @@ body {
     padding-right: 400px;
     margin-top: 200px;
 }
-.second-heading{
+
+.second-heading {
     color: #272727;
 
     font-size: 40px;
 
 }
-.second-description{
+
+.second-description {
     color: #27272799;
-    
+
     font-size: 20px;
     line-height: 30px;
-    
+
 }
-.second-pic{
+
+.second-pic {
     width: 400px;
     height: 500px;
 
 }
+
 /* third section styles */
-.third-container{
+.third-container {
     text-align: center;
-    
-    
+
+
 }
-.third-heading{
+
+.third-heading {
     color: #272727;
     font-size: 40px;
     margin-top: 200px;
 
 }
-.third-description{
-    
-   color: rgba(39, 39, 39, 0.60);
+
+.third-description {
+
+    color: rgba(39, 39, 39, 0.60);
 }
+
 /* fourth section styles */
-.fourth-container{
+.fourth-container {
     display: flex;
     width: 342px;
     height: 396px;
 
 
 }
-.fourth-pic{
-      margin-left: 800px;  
-    }
-.fifth-pic{
+
+.fourth-pic {
+    margin-left: 400px;
+}
+
+.fifth-pic {
     margin-left: 20px;
     margin-right: 20px;
 }
-.sixth-pic{
-    
+
+.sixth-pic {
+
     margin-right: 20px;
+}
+
+/* fifth section styles */
+
+.fifth-container {
+    margin-top: 200px;
+    background-image: url('../Flower Asset/Rectangle 9.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1800px;
+    height: 500px;
+    margin-top: 150px;
+    margin-bottom: 250px;
+    margin-left: 200px;
+    margin-right: 250px;
+
+}
+
+.mail-div {}
+
+
+
+
+.mail-heading {
+    color: #272727;
+    text-align: center;
+
+    font-size: 40px;
+
+}
+
+.mail-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+
+    font-size: 18px;
+
+    font-weight: 800px;
+    line-height: 30px;
+}
+
+
+#contact {
+    width: 5000px;
+    height: 4867px;
+    margin-left: 800px;
+}
+
+/* footer related style */
+
+.footer-section {
+    width: 1800px;
+    height: 449px;
+    background-color: #272727;
+    margin-left: 200px;
 }
